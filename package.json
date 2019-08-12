@@ -1,0 +1,22 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface (LIRI) Bot is a command line node app that takes in user parameters and provides the user with data from Spotify, OMDB, and Bands In Town APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleyerffmeyer/constructor-word-guess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleyerffmeyer/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/ashleyerffmeyer/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1"
+  }
+}
