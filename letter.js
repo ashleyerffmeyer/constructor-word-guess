@@ -1,7 +1,8 @@
 // Defining Letter constructor
-var Letter = function (arg1) {
+var Letter = function (letter) {
+
     // String value to store letter
-    this.letter = arg1;
+    this.letter = letter;
 
     // Boolean value that stores whether letter has been guessed or not
     this.guessedLetter = false;
@@ -36,7 +37,6 @@ var Letter = function (arg1) {
         }
     }
 };
-Letter(arg1);
 
 // Exports Letter
 module.exports = Letter;

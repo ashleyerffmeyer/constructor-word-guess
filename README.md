@@ -1,6 +1,6 @@
 # Word Guess Game with Constructors
 
-This application is a Word Guess command line game using constructor functions.  
+Command line interface (CLI) word guess game using constructor functions and Node.js  
 
 [Link to Constructor Word Guess Game Demo!](https://drive.google.com/file/d/1nID5S69a3vKTDUP62cAKwYX5xzXw7PW2/view?usp=sharing) 
 
