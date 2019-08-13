@@ -2,7 +2,7 @@
 
 Command line interface (CLI) word guess game using constructor functions and Node.js  
 
-[Link to Constructor Word Guess Game Demo!](https://drive.google.com/file/d/1nID5S69a3vKTDUP62cAKwYX5xzXw7PW2/view?usp=sharing) 
+[Link to Constructor Word Guess Game Demo!](https://drive.google.com/file/d/1iQY7eqmP2IergPcwja7xSmvU6dcaHx5b/view?usp=sharing) 
 
 ## Authors
 Ashley Erffmeyer, with major support from KU's Coding Boot Camp staff members:
@@ -14,10 +14,7 @@ Ashley Erffmeyer, with major support from KU's Coding Boot Camp staff members:
 ## Tools Used
 * JavaScript
 * Node.js
-* Multiple node packages: 
-    * [Inquirer](https://www.npmjs.com/package/inquirer)
-
-    * [Chalk](https://www.npmjs.com/package/chalk)
+* [Inquirer](https://www.npmjs.com/package/inquirer)
 
 ## Prerequisites & Installations
 
