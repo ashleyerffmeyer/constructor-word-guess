@@ -18,7 +18,7 @@ Ashley Erffmeyer, with major support from KU's Coding Boot Camp staff members:
 
 ## Prerequisites & Installations
 
-In order to run this command line node app, first install node.js and npm. To install the app, clone this repository and use 'npm install' to gather dependencies specified in the package.json file (inquirer and prompt. 
+In order to run this command line node app, first install node.js and npm. To install the app, clone this repository and use 'npm install' to gather dependencies specified in the package.json file (inquirer). 
 
 ## Application Overview
 
